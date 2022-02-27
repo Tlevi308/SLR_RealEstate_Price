@@ -3,8 +3,8 @@ Simple Linear Regression Model -
 Real Estate price prediction
 
 # The general dataset in this repo is as follows:
-1.RealEstate_TLV: 80% training data
-                  20% test data
+RealEstate_TLV: 80% training data
+                20% test data
 
 **the dataset from "nadlan.gov.il"**
 The data refers to 3 room apartment in Dizengoff st TLV
