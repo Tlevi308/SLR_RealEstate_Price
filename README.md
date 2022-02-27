@@ -1,1 +1,1 @@
-# Simple-Linear-Regression---RealEstate-Price
+# Simple Linear Regression - RealEstate Price
